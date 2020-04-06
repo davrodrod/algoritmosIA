@@ -2,12 +2,12 @@
 
 Compilación de algoritmos de IA:
 
-*Aprendizaje Supervisado*
+**Aprendizaje Supervisado**
 
-_Regresiones_
-- Regresión Lineal
-- Regresión Polinómica
+* _*Regresiones*_
+  * Regresión Lineal
+  * Regresión Polinómica
 
-*Aprendizaje no supervisado*
-_Agrupamientos_
-- K vecinos cercanos
+**Aprendizaje no supervisado**
+* _*Agrupamientos*_
+  * K vecinos cercanos
