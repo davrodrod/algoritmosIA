@@ -5,7 +5,7 @@ Compilación de algoritmos de IA:
 **Aprendizaje Supervisado**
 
 * _*Regresiones*_
-  * Regresión Lineal (sklearn) [Link](algoritmosIA/regresionlineal.ipnb)
+  * Regresión Lineal (sklearn) [Link](algoritmosIA/Regresionlineal.ipnb)
   * Regresión Polinómica (sklearn)
   * MLP para regresión(Tensorflow)
   * RNN LSTM para predicción de series (TensorFlow)
