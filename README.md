@@ -20,11 +20,11 @@ Compilación de algoritmos de IA:
   * K vecinos cercanos (sklearn) [Link](KVecinosCercanos.ipynb)
   
 **Otros. Tensorflow**
-* _*Uso de Functional API*_ [Link](FunctionalAPITensorflow.ipynb)
-* _*Visualización de modelo textual y gráfica*_ [Link](VisualizacionDeepLearningModel.ipynb)
-* _*Visualización de curvas de aprendizaje*_ [Link](PintarLearningCurvesTensorFlow.ipynb)
-* _*Almacenar y recuperar el modelo*_ [Link](SavingAndLoadingTheModel.ipynb)
+* _*Uso de Functional API*_ (TensorFlow) [Link](FunctionalAPITensorflow.ipynb)
+* _*Visualización de modelo textual y gráfica*_ (TensorFlow) [Link](VisualizacionDeepLearningModel.ipynb)
+* _*Visualización de curvas de aprendizaje*_ (TensorFlow) [Link](PintarLearningCurvesTensorFlow.ipynb)
+* _*Almacenar y recuperar el modelo*_ (TensorFlow) [Link](SavingAndLoadingTheModel.ipynb)
 * _*Mejora Performance*_
-  * Dropout [Link](MejorarPerformance_Dropout.ipynb)
-  * Batch Normalization [Link](MejorarPerformance_AcelerarEntrenamientoConBatchNormalization.ipynb)
-  * Early Stopping [Link](MejorarPerformance_earlyStopping.ipynb)
+  * Dropout (TensorFlow) [Link](MejorarPerformance_Dropout.ipynb)
+  * Batch Normalization (TensorFlow) [Link](MejorarPerformance_AcelerarEntrenamientoConBatchNormalization.ipynb)
+  * Early Stopping (TensorFlow) [Link](MejorarPerformance_earlyStopping.ipynb)
