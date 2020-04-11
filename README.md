@@ -18,3 +18,13 @@ Compilación de algoritmos de IA:
 **Aprendizaje no supervisado**
 * _*Agrupamientos*_
   * K vecinos cercanos (sklearn)
+  
+**Otros. Tensorflow**
+* _*Uso de Functional API*_
+* _*Visualización de modelo textual y gráfica*_
+* _*Visualización de curvas de aprendizaje*_
+* _*Almacenar y recuperar el modelo*_
+* _*Mejora Performance*_
+  * Dropout
+  * Batch Normalization
+  * Early Stopping
