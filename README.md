@@ -13,7 +13,7 @@ Compilación de algoritmos de IA:
 * _*Clasificación*_
   * MLP para clasificación binaria (Tensorflow) [Link](MLP4BinaryClassification_tensorflow.ipynb)
   * MLP para clasificación multiclase (Tensorflow) [Link](MLP_multiclass_classification_tensorflow.ipynb)
-  * CNN para clasificación multiclase de imágenes (Tensorflow) [Link](CNN4imageClassification.ipynb)
+  * CNN para clasificación multiclase de imágenes (Tensorflow) [Link](CNN4ImageClassification.ipynb)
 
 **Aprendizaje no supervisado**
 * _*Agrupamientos*_
