@@ -15,6 +15,7 @@ Compilación de algoritmos de IA:
   * MLP para clasificación multiclase (Tensorflow) [Link](MLP_multiclass_classification_tensorflow.ipynb)
   * CNN para clasificación multiclase de imágenes (Tensorflow) [Link](CNN4ImageClassification.ipynb)
   * Naive Bayes. [Link](NaiveBayes.ipynb)
+  * Random Forest. [Link](RandomForestClasificacion.ipynb)
 
 **Aprendizaje no supervisado**
 * _*Agrupamientos*_
